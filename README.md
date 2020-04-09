@@ -1,4 +1,5 @@
 # README for Comp2150A3
+## 0.This is assignment of COMP2150, GUI files are provided by Professor Mike Domerazki
 ## 1.How to Compile
 Run “javac A3.java”
 ## 2.How to Run and Play
